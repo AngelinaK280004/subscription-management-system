@@ -12,11 +12,11 @@ Business analysis case: Subscription management personal cabinet
 Методологии: Agile, User Stories (INVEST)
 
 ## Структура репозитория
-'01_Stakeholders' — Анализ стейкхолдеров, матрица влияние/интерес.
-02_Requirements — User Stories, Use Cases, критерии приемки.
-03_BPMN_Processes — Модели процессов as-is и to-be (смена тарифа, отключение).
-04_UML_Diagrams — Диаграммы классов и последовательностей.
-05_API_and_Testing — Спецификация OpenAPI (Swagger) и коллекция Postman для тестирования.
+01_Stakeholders — Анализ стейкхолдеров, матрица влияние/интерес.<br>
+02_Requirements — User Stories, Use Cases, критерии приемки.<br>
+03_BPMN_Processes — Модели процессов as-is и to-be (смена тарифа, отключение).<br>
+04_UML_Diagrams — Диаграммы классов и последовательностей.<br>
+05_API_and_Testing — Спецификация OpenAPI (Swagger) и коллекция Postman для тестирования.<br>
 06_Documentation — Итоговое техническое задание (ТЗ).
 
 ## Результаты
