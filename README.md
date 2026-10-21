@@ -1,15 +1,15 @@
 # subscription-management-system
-Business analysis case: Subscription management personal cabinet 
+Business analysis case: Subscription management personal cabinet <br>
 Личный кабинет управления подписками (Business Analysis Case)
 
 ## О проекте
-Учебный кейс по проектированию личного кабинета для SaaS-сервиса. 
-Цель: разработать концепцию ЛК, описать бизнес-процессы, спроектировать API и подготовить ТЗ.
+Учебный кейс по проектированию личного кабинета для SaaS-сервиса. <br>
+Цель: разработать концепцию ЛК, описать бизнес-процессы, спроектировать API и подготовить ТЗ.<br>
 
 ## Стек и инструменты
-Нотации: BPMN 2.0, UML (Class, Sequence)
-Инструменты: Miro, Swagger, Postman, Excel
-Методологии: Agile, User Stories (INVEST)
+Нотации: BPMN 2.0, UML (Class, Sequence)<br>
+Инструменты: Miro, Swagger, Postman, Excel<br>
+Методологии: Agile, User Stories (INVEST)<br>
 
 ## Структура репозитория
 01_Stakeholders — Анализ стейкхолдеров, матрица влияние/интерес.<br>
