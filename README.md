@@ -4,11 +4,11 @@ Business analysis case: Subscription management personal cabinet <br>
 
 ## О проекте
 Учебный кейс по проектированию личного кабинета для SaaS-сервиса. <br>
-Цель: разработать концепцию ЛК, описать бизнес-процессы, спроектировать UML-схемы.<br>
+Цель: разработать концепцию ЛК, описать бизнес-процессы, спроектировать UML-схемы и API.<br>
 
 ## Стек и инструменты
 Нотации: BPMN 2.0, UML (Class, Sequence)<br>
-Инструменты: Miro, Draw.io<br>
+Инструменты: Holst, Draw.io, Comunda<br>
 Методологии: Agile, User Stories (INVEST)<br>
 
 ## Структура репозитория
@@ -16,6 +16,9 @@ Business analysis case: Subscription management personal cabinet <br>
 02_Requirements — User Stories, Use Cases, критерии приемки.<br>
 03_BPMN_Processes — Модели процессов as-is и to-be (смена тарифа, отключение).<br>
 04_UML_Diagrams — Диаграммы классов.<br>
+05_Sequence_Diagrams —  Диаграммы последовательностей.<br>
+06_REST API — API основных методов.<br>
+Документация.docx — Проектирование личного кабинета для SaaS-сервиса «Subly».
 
 ## Результаты
-Сформирован часть пакета проектной документации, готовый к передаче в команду разработки. 
+Сформирована часть проектной документации, готовая к передаче в команду разработки. 
