@@ -18,7 +18,7 @@ Business analysis case: Subscription management personal cabinet <br>
 04_UML_Diagrams — Диаграммы классов.<br>
 05_Sequence_Diagrams —  Диаграммы последовательностей.<br>
 06_REST API — API основных методов.<br>
-Документация.docx — Проектирование личного кабинета для SaaS-сервиса «Subly».
+Проектирование личного кабинета для SaaS-сервиса «Subly» — https://docs.google.com/document/d/1ZtkTxljZgQaEpza2q8xgtHuhQFU1rOPA_YGrvdKvAGo/edit?usp=sharing
 
 ## Результаты
 Сформирована часть проектной документации, готовая к передаче в команду разработки. 
