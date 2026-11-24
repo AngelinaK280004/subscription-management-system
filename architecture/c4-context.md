@@ -13,13 +13,13 @@ C4Context
     System(subly, "Subly", "Личный кабинет управления подписками: смена тарифа, отключение, история платежей, самообслуживание")
 
     System_Ext(paymentGateway, "Платёжный шлюз", "Обработка платежей и callback-уведомлений о статусе")
-    System_Ext(emailService, "Email-сервис", "Отправка чеков и уведомлений об изменениях подписки `[УТОЧНИТЬ: входит ли в скоуп]`")
+    System_Ext(emailService, "Email-сервис", "Отправка чеков и уведомлений об изменениях подписки ")
 
     Rel(user, subly, "Управляет подписками", "HTTPS")
     Rel(finance, subly, "Проверяет платежи", "HTTPS")
     Rel(support, subly, "Просматривает подписки клиентов", "HTTPS `[УТОЧНИТЬ: есть ли отдельный доступ для поддержки]`")
 
     Rel(subly, paymentGateway, "Инициирует платежи и получает callback", "HTTPS/JSON")
-    Rel(subly, emailService, "Отправляет уведомления", "SMTP/API `[УТОЧНИТЬ]`")
+    Rel(subly, emailService, "Отправляет уведомления", "SMTP/API ")
 
     UpdateLayoutConfig($c4ShapeInRow="2", $c4BoundaryInRow="1")
