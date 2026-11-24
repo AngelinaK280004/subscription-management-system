@@ -54,8 +54,8 @@ REST API спроектирован не «по сущностям», а **по�
 | Диаграммы последовательностей | [`05_Sequence diagram`](05_Sequence%20diagram) | Взаимодействие компонентов при отмене, смене тарифа, просмотре |
 | REST API | [`06_REST API`](06_REST%20API) | Контракты интеграции и диаграммы платежей |
 | Матрица трассировки | [`traceability.md`](traceability.md) | Связь «требование → процесс → API → критерий» |
-| C4 Context | [`c4-context.md`](c4-context.md) | Границы системы и внешние акторы |
-| C4 Containers | [`c4-container.md`](c4-container.md) | Архитектура SPA → API → БД |
+| C4 Context | [`architecture/c4-context.md`](architecture/c4-context.md) | Границы системы и внешние акторы |
+| C4 Containers | [`architecture/c4-container.md`](architecture/c4-container.md) | Архитектура SPA → API → БД |
 
 ## Результаты и эффект
 
